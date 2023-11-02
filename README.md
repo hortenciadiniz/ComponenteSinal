@@ -30,16 +30,17 @@ A seguir, listarei alguns comentários importantes sobre a construção do códi
 
 * A função FFT foi chamada e como parâmentro, o áudio foi enviado;
 
-* A taxa de amostagrem do áudio é de 16KHz e no domínio da frequência, o gráfico foi plotado. Nele, percebem-se quatro frequências com amplitudes diferentes, são estas: 630Hz/-24dB, 818Hz/, 2KHz/, 4KHz/;
+* A taxa de amostagrem do áudio é de 16KHz e no domínio da frequência, o gráfico foi plotado. Nele, percebem-se quatro frequências com amplitudes diferentes, são estas: 630Hz/-24dB, 818Hz/-84dB, 2KHz/-21dB, 4KHz/-19dB. O site usado para rodar o áudio e ver as amplitudes em dB foi https://www.checkhearing.org/audioPlotSpectrum.php
 
 
 
-![Resultado do sinal de áudio](./AUDIO_INPUT.png "FFT Result")
+
+![Resultado do sinal de áudio](./AUDIO_INPUT.png "Áudio Result")
 
 
 
-![Resultado do sinal de áudio](./AUDIO_MAGNITUDE.png "FFT Result")
+![Resultado do sinal de áudio](./AUDIO_MAGNITUDE.png "Áudio Result")
 
 
 
-![Resultado do sinal de áudio](./AUDIO_FASE.png "FFT Result")
+![Resultado do sinal de áudio](./AUDIO_FASE.png "Áudio Result")
