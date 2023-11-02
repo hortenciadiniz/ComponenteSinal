@@ -1,4 +1,4 @@
-# Componente de um Sinal - Relatório
+# Componente de um Sinal - Report
 
 * Federal University of Campina Grande
 
