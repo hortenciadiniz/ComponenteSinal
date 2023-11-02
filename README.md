@@ -6,19 +6,19 @@
 
 * Separação de Componentes de um Sinal - PDS Class - Atividade 3
 
-No arquivo sinal.wav foi gravado um sinal composto de soma de cossenos amostrados a Fs = 16KHz. 
+  No arquivo sinal.wav foi gravado um sinal composto de soma de cossenos amostrados a Fs = 16KHz. 
 Deseja-se saber quantas componentes (cossenos) formam esse sinal. Considerando que a componente de menor frequências (que não seja o nível DC caso ele esteja presente) é o nível de referência, qual a potência relativa dos demais? Além disso, também foi solicitado um sistema que separe as componentes do sinal gravado.
 
-Sua tarefa é atender as solicitações acima entregando um relatório mostrando:
+  Sua tarefa é atender as solicitações acima entregando um relatório mostrando:
 1. Quais frequências estão presentes?
 2. Qual a relação de potência entre elas;
 3. Qual o valor em volts das componentes se a menor frequência tem 1V;
 
 # Build e Execução
 
-O cógido para esta questão foi feito em Python e utilizou-se o Colab para execução.
+  O cógido para esta questão foi feito em Python e utilizou-se o Colab para execução.
 
-A seguir, listarei alguns comentários importantes sobre a construção do código:
+  A seguir, listarei alguns comentários importantes sobre a construção do código:
 
 * A biblioteca usada para importar o áudio foi a wavefile; 
 
