@@ -1,7 +1,9 @@
 # Componente de um Sinal - Relatório
 
 Federal University of Campina Grande
+
 Hortência Diniz Dultra e Silva - 02/11/23
+
 Separação de Componentes de um Sinal - PDS Class - Atividade 3
 
 No arquivo sinal.wav foi gravado um sinal composto de soma de cossenos amostrados a Fs = 16kHz. 
